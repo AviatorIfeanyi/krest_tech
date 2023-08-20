@@ -109,11 +109,11 @@ The dataset was further normalised into to two tables to adhere to the principle
 
 Marketing Table             |           Products Table
 :--------------------------:|:------------------------:
-![](marketing.png)          |         ![](products.png)
+![](marketing.PNG)          |         ![](products.PNG)
 
 ## Data Modelling Design
 
-![Data Modelling](data_model.png)
+![Data Modelling](data_model.PNG)
 
 <br/>
 
