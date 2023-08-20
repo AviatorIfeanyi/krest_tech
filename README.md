@@ -22,3 +22,14 @@
 ## Dataset Overview:
 ## Our analysis focuses on a dataset comprising various parameters related to Krest Tech store's Facebook ad campaigns. These parameters include the ad campaign IDs, audience demographics (age and gender), user interests, impressions, clicks, advertising expenditure (spent), and different types of conversions (total and approved). By scrutinizing this dataset, we aim to uncover insights into the effectiveness of the ad campaigns, the impact of demographic targeting, and the correlation between various metrics and conversions.
 
+
+## Data Cleaning and Preparation
+## The dataset comprises of 1143 records of data gotten from kaggle website.
+## Data cleaning procedures implemented on the datset inculdes: 
+### 1. Renamaing columns
+### 2. Changing columns datatype
+### 3. Column Value Mapping
+
+## The dataset was further normalised into to two tables to adhere to the principles of data modelling. The data tables include:
+### ~ Marketing
+### ~ Products
