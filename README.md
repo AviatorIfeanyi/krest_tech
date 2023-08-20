@@ -18,6 +18,22 @@ Social media marketing refers to the strategic use of social media platforms to 
 ## Importance to Business Success:
 The significance of social media marketing in today's business landscape cannot be overstated. It offers a unique blend of accessibility, reach, and personalization that traditional marketing methods struggle to replicate. Through targeted advertising, businesses can connect with their intended audience more effectively than ever before. Moreover, the interactive nature of social media fosters real-time engagement, enabling businesses to build relationships with customers, address concerns promptly, and gather valuable feedback.
 
+## Business Problem
+**1. Low Conversion Rates:** The store is experiencing low conversion rates from their Facebook ad campaigns, leading to inefficient use of resources and unsatisfactory results in terms of sales and revenue.
+
+**2. Ineffective Targeting:** Ineffective targeting of the right demographics or user interests, resulting in poor engagement and low conversion rates.
+
+**3. High Advertising Costs:** The cost per click or cost per conversion may be higher than desired, affecting the overall cost-effectiveness of the campaigns and potentially leading to budget constraints.
+
+**4. Lack of Insights:** Lack of actionable insights into which ad campaigns are most successful, which demographic segments respond best, and the specific factors driving conversions.
+
+**5. Varying Campaign Performance:** Fluctuating performance of some ads campaign. This inconsistency could indicate a lack of a unified strategy or unclear messaging.
+
+**6. Competitive Pressure:** Stiff competition from other technology retailers on Facebook, and its campaigns needs to stand out more to gain a competitive edge.
+
+**7. Ad Fatigue:** The audience may be experiencing ad fatigue, resulting in reduced engagement and conversion rates. Fresh strategies may be needed to recapture the audience's attention.
+
+
 ## Business Objectives
 ### The business objectives of this project are as follows:
 
@@ -25,7 +41,7 @@ The significance of social media marketing in today's business landscape cannot 
 
 3. Refine Demographic Targeting: By analyzing demographic data, we intend to pinpoint age and gender groups that show the highest response rates. This knowledge will in tailoring future campaigns to specific audience segments for maximum impact.
 
-4. Enhance Conversion Rates: The goal is to delve into the correlation between ad engagement metrics and conversion rates. This will allow us to uncover patterns and insights that can be leveraged to increase the effectiveness of our campaigns in driving conversions.
+4. Enhance Conversion Rates: The goal is to delve into the correlation between ad engagement metrics and conversion rates. This will allow to uncover patterns and insights that can be leveraged to increase the effectiveness of our campaigns in driving conversions.
 
 5. Measure ROI: Assessing the return on investment (ROI) for each ad campaign by comparing the advertising expenditure to the achieved conversions. This analysis will provide a clear picture of the cost-effectiveness of our social media marketing efforts.
 
