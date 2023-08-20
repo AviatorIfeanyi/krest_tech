@@ -188,3 +188,8 @@ This measures the overall interaction and engagement with the ad.
 
 This shows the conversion rate for each gender group.
 
+<br>
+
+## Data Analysis / Visualization
+
+![dashboard](krest_tech_dashboard.jpg)
